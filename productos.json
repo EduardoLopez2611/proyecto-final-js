@@ -1,0 +1,244 @@
+[
+    {
+        "id": "remera-01", 
+        "titulo":"Remera 01",
+        "imagen":"../assets/img/remeras.jpg",
+        "categoria":{
+            "nombreProducto": "Remeras", 
+            "id":"remeras"
+        },
+            "precio": 5000
+    },
+    {
+        "id": "remera-02", 
+        "titulo":"Remera 02",
+        "imagen":"../assets/img/remeras2.jpg",
+        "categoria":{
+            "nombreProducto": "Remeras",
+            "id":"remeras"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "remera-03", 
+        "titulo":"Remera 03",
+        "imagen":"../assets/img/remeras3.jpg",
+        "categoria":{
+            "nombreProducto": "Remeras", 
+            "id":"remeras"
+        },
+            "precio": 5000
+    },
+    {
+        "id": "remera-04", 
+        "titulo":"Remera 04",
+        "imagen":"../assets/img/remeras4.jpg",
+        "categoria":{
+            "nombreProducto": "Remeras", 
+            "id":"remeras"
+        },
+            "precio": 5000
+    },
+    {                
+        "id": "bermuda-01", 
+        "titulo":"Bermuda 01",
+        "imagen":"../assets/img/bermudas.jpg",
+        "categoria":{
+            "nombreProducto": "Bermudas", 
+            "id":"bermudas"
+        },
+            "precio": 3000
+    },
+    {
+        "id": "bermuda-02", 
+        "titulo":"Bermuda 02",
+        "imagen":"../assets/img/bermudas2.jpg",
+        "categoria":{
+            "nombreProducto": "Bermudas", 
+            "id":"bermudas"
+        },
+            "precio": 3000
+    },
+    {
+        "id": "bermuda-03", 
+        "titulo":"Bermuda 03",
+        "imagen":"../assets/img/bermudas3.jpg",
+        "categoria":{
+            "nombreProducto": "Bermudas", 
+            "id":"bermudas"
+        },
+            "precio": 3000
+    },
+    {
+        "id": "bermuda-04", 
+        "titulo":"Bermuda 04",
+        "imagen":"../assets/img/bermudas4.jpg",
+        "categoria":{
+            "nombreProducto": "Bermudas", 
+            "id":"bermudas"
+        },
+            "precio": 3000
+    },
+        
+    {
+        "id": "camiseta-de-futbol-01", 
+        "titulo":"Camiseta de futbol 01",
+        "imagen":"../assets/img/camisetas-de-futbol.jpg",
+        "categoria":{
+            "nombreProducto": "Camisetas de futbol", 
+            "id":"futbol"
+        },
+            "precio": 3700
+    },
+    {
+        "id": "camiseta-de-futbol-02", 
+        "titulo":"Camiseta de futbol 02",
+        "imagen":"../assets/img/camisetas-de-futbol2.jpg",
+        "categoria":{
+            "nombreProducto": "Camisetas de futbol", 
+            "id":"futbol"
+        },
+            "precio": 3700
+    },
+    {
+        "id": "camiseta-de-futbol-03",
+        "titulo":"Camiseta de futbol 03",
+        "imagen":"../assets/img/camisetas-de-futbol3.jpg",
+        "categoria":{
+            "nombreProducto": "camisetas de futbol",
+            "id":"futbol"
+        },
+            "precio": 3700
+    },
+    {
+        "id": "camiseta-de-futbol-04",
+        "titulo":"Camiseta de futbol 04",
+        "imagen":"../assets/img/camisetas-de-futbol4.jpg",
+        "categoria":{
+            "nombreProducto": "Camisetas de futbol",
+            "id":"futbol"
+        },
+            "precio": 3700
+    },
+    {
+        "id": "medias-01",
+        "titulo":"medias 01",
+        "imagen":"../assets/img/medias.jpg",
+        "categoria":{
+            "nombreProducto": "Medias",
+            "id":"medias"
+        },
+            "precio": 1000
+    },
+    {
+        "id": "medias-02",
+        "titulo":"medias 02",
+        "imagen":"../assets/img/medias2.jpg",
+        "categoria":{
+            "nombreProducto": "Medias",
+            "id":"medias"
+        },
+            "precio": 1000
+    },
+    {
+        "id": "medias-03",
+        "titulo":"medias 03",
+        "imagen":"../assets/img/medias3.jpg",
+        "categoria":{
+            "nombreProducto": "Medias",
+            "id":"medias"
+        },
+            "precio": 1000
+    },
+    {
+        "id": "medias-04",
+        "titulo":"medias 04",
+        "imagen":"../assets/img/medias4.jpg",
+        "categoria":{
+            "nombreProducto": "Medias",
+            "id":"medias"
+        },
+            "precio": 1000
+    },
+    {
+        "id": "pantalon-01",
+        "titulo":"pantalon 01",
+        "imagen":"../assets/img/pantalones.jpg",
+        "categoria":{
+            "nombreProducto": "Pantalones",
+            "id":"pantalones"
+        },
+            "precio": 8000
+    },
+    {
+        "id": "pantalon-02",
+        "titulo":"pantalon 02",
+        "imagen":"../assets/img/pantalones2.jpg",
+        "categoria":{
+            "nombreProducto": "Pantalones",
+            "id":"pantalones"
+        },
+            "precio": 8000
+    },
+    {
+        "id": "pantalon-03",
+        "titulo":"pantalon 03",
+        "imagen":"../assets/img/pantalones3.jpg",
+        "categoria":{
+            "nombreProducto": "Pantalones",
+            "id":"pantalones"
+        },
+            "precio": 8000
+    },
+    {
+        "id": "pantalon-04",
+        "titulo":"pantalon 04",
+        "imagen":"../assets/img/pantalones4.jpg",
+        "categoria":{
+            "nombreProducto": "Pantalones",
+            "id":"pantalones"
+        },
+            "precio": 8000
+    },
+    {
+        "id": "zapatilla-01",
+        "titulo":"zapatilla 01",
+        "imagen":"../assets/img/zapatillas.jpg",
+        "categoria":{
+            "nombreProducto": "Zapatillas",
+            "id":"zapatillas"
+        },
+            "precio": 12000
+    },
+    {
+        "id": "zapatilla-02",
+        "titulo":"zapatilla 02",
+        "imagen":"../assets/img/zapatillas2.jpg",
+        "categoria":{
+            "nombreProducto": "Zapatillas",
+            "id":"zapatillas"
+        },
+            "precio": 12000
+    },
+    {
+        "id": "zapatilla-03",
+        "titulo":"zapatilla 03",
+        "imagen":"../assets/img/zapatillas3.jpg",
+        "categoria":{
+            "nombreProducto": "Zapatillas",
+            "id":"zapatillas"
+        },
+            "precio": 12000
+    },
+    {
+        "id": "zapatilla-04",
+        "titulo":"zapatilla 04",
+        "imagen":"../assets/img/zapatillas4.jpg",
+        "categoria":{
+            "nombreProducto": "Zapatillas",
+            "id":"zapatillas"
+        },
+            "precio": 12000
+    }
+    
+]
